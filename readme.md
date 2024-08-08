@@ -22,7 +22,7 @@ Taco Town is a simple web application that displays a menu based on categories o
 
 1. **Clone the repository**:
     ```bash
-    git clone 
+    git clone https://github.com/dileep2602/Taco-Town.git
     cd taco-town
     ```
 
